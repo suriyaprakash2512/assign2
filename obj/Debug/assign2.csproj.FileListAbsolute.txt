@@ -1,0 +1,7 @@
+C:\Users\SuriyaPrakash\source\repos\assign2\bin\Debug\assign2.exe.config
+C:\Users\SuriyaPrakash\source\repos\assign2\bin\Debug\assign2.exe
+C:\Users\SuriyaPrakash\source\repos\assign2\bin\Debug\assign2.pdb
+C:\Users\SuriyaPrakash\source\repos\assign2\obj\Debug\assign2.csproj.AssemblyReference.cache
+C:\Users\SuriyaPrakash\source\repos\assign2\obj\Debug\assign2.csproj.CoreCompileInputs.cache
+C:\Users\SuriyaPrakash\source\repos\assign2\obj\Debug\assign2.exe
+C:\Users\SuriyaPrakash\source\repos\assign2\obj\Debug\assign2.pdb
